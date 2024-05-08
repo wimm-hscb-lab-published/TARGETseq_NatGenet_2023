@@ -86,6 +86,9 @@ Example output files for each step of the analysis in the _out_ folder. The ulti
 # Contact
 
 Adam Mead <adam.mead@imm.ox.ac.uk>
-Sean Wen <sean.wen@astrazeneca.com> or <sw2136@cam.ac.uk>.
+
+Sean Wen <sean.wen@astrazeneca.com> or <sw2136@cam.ac.uk>
+
 Alba Rodriguez-Meira <alba_rodriguez-meira@dfci.harvard.edu> 
+
 Affaf Aliouat <affaf.aliouat@ndcls.ox.ac.uk>
